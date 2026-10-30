@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Prepared educational project for author review. Cite the reviewed release and the original feeder/software sources; see docs/REFERENCES.md."
+title: "Voltage Regulation and Energy Loss Reduction in a Distribution Network Using Solar PV and Battery Storage"
+type: software
+authors:
+  - family-names: Alruwaili
+    given-names: Abdullah
+    affiliation: University of Jeddah
+version: 0.1.0
+abstract: "AI-assisted undergraduate study package for author review and reproduction, using pandapower and the IEEE 33-bus feeder to examine photovoltaic and battery effects on voltage and modeled energy losses."
+keywords:
+  - distribution networks
+  - solar photovoltaics
+  - battery storage
+  - load flow
