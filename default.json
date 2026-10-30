@@ -1,0 +1,13 @@
+{
+  "pv_units": [{"bus": 18, "p_rated_mw": 0.9}, {"bus": 33, "p_rated_mw": 1.2}],
+  "battery": {
+    "bus": 33, "p_max_mw": 0.6, "e_nom_mwh": 2.4,
+    "soc_min": 0.2, "soc_max": 0.9, "soc_initial": 0.2,
+    "eta_charge": 0.95, "eta_discharge": 0.95,
+    "charge_hours": [10, 11, 12, 13, 14, 15],
+    "discharge_hours": [17, 18, 19, 20, 21]
+  },
+  "voltage_min_pu": 0.95,
+  "voltage_max_pu": 1.05,
+  "slack_vm_pu": 1.0
+}
